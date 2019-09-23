@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Testing out how this CMS works.
+title: This is not wordpress
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Coffee sucks
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: 'Why do you compare to wordpress, this is easier.'
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
